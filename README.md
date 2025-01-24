@@ -19,12 +19,7 @@ JAVA||HTML 5||CSS 3||REACT||REACT ROUTING||MY SQL ||JAVASCRIPT
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=medamvishnu27&show_icons=true&theme=dark)  
 
-**Pavan Kumar P's GitHub Stats:**  
-- **Total Stars Earned:** 4  
-- **Total Commits:** 163  
-- **Total PRs:** 21  
-- **Total Issues:** 0  
-- **Contributed to (last year):** 1  
+
 
 ## Most Used Languages  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=medamvishnu27&layout=compact&theme=dark)  
