@@ -4,18 +4,18 @@
 
 🚀 What I Do: By day, I craft software solutions; by night, I dive into the world of open source as an enthusiast and maintainer. I believe in the magic of collaboration and knowledge sharing.
 
-💼 Open for Freelance Work: If you need help with a project, I'm open to freelance opportunities. Let’s turn your ideas into reality! Feel free to reach out via email: [medamvishnu27@gmail.com].
+💼 **Open for Freelance Work**: If you need help with a project, I'm open to freelance opportunities. Let’s turn your ideas into reality! Feel free to reach out via email: [medamvishnu27@gmail.com].
 
-🔗 Let’s Connect: I love engaging with new ideas and people, so don’t hesitate to ask me anything or share your thoughts!
+🔗 **Let’s Connect**: I love engaging with new ideas and people, so don’t hesitate to ask me anything or share your thoughts!
 
-LinkedIn:[https://www.linkedin.com/in/vishnuvardhan-reddy-medam] 
+**LinkedIn**:[https://www.linkedin.com/in/vishnuvardhan-reddy-medam] 
 
-Email:[medamvishnu27@gmail.com]
+**Emai**l:[medamvishnu27@gmail.com]
 
 Let’s build something amazing together! 🌟
 
 
-💻# Tech Stack  
+💻 **Tech Stack**  
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)
