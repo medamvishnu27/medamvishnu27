@@ -14,8 +14,8 @@ Email:[medamvishnu27@gmail.com]
 
 Let’s build something amazing together! 🌟
 
-💻##Tech Stack:
-# Tech Stack  
+
+💻# Tech Stack  
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript) 
 ![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=java)
