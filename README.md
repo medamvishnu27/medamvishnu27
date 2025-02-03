@@ -8,7 +8,9 @@
 
 🔗 **Let’s Connect**: I love engaging with new ideas and people, so don’t hesitate to ask me anything or share your thoughts!
 
-**LinkedIn**:[https://www.linkedin.com/in/vishnuvardhan-reddy-medam] 
+
+
+<a href="https://linkedin.com/in/vishnuvardhan-reddy-medam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishnuvardhan-reddy-medam" height="30" width="40" /></a>
 
 **Emai**l:[medamvishnu27@gmail.com]
 
