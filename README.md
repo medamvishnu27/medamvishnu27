@@ -30,6 +30,19 @@ Let’s build something amazing together! 🌟
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-black?style=flat&logo=tailwind-css) 
 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=medamvishnu27&label=Profile%20views&color=0e75b6&style=flat" alt="medamvishnu27" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=medamvishnu27" alt="medamvishnu27" /></a> </p>
+
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=medamvishnu27&show_icons=true&locale=en&layout=compact" alt="medamvishnu27" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=medamvishnu27&show_icons=true&locale=en" alt="medamvishnu27" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=medamvishnu27&" alt="medamvishnu27" /></p>
+
+
+
 # GitHub Stats  
 
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=medamvishnu27&show_icons=true&theme=dark)  
