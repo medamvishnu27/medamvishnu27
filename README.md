@@ -9,17 +9,19 @@
 🔗 **Let’s Connect**: I love engaging with new ideas and people, so don’t hesitate to ask me anything or share your thoughts!
 
 
-
+<p>
 <a href="https://linkedin.com/in/vishnuvardhan-reddy-medam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="vishnuvardhan-reddy-medam" height="30" width="40" /></a>
 
 <a href="https://www.leetcode.com/vishnu33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishnu33" height="30" width="40" /></a>
 
 <a href="https://www.leetcode.com/vishnu33" target="_blank">  
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/Email.svg" alt="Email Icon" height="30" width="40" />  
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Email_icon.svg" alt="Email Icon" height="30" width="40" />  
 </a>
+</p>
 
 
-**Emai**l:[medamvishnu27@gmail.com]
+
+
 
 Let’s build something amazing together! 🌟
 
