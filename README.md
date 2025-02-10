@@ -1,4 +1,4 @@
- 💫 About me:
+ 💫 **About me**:
  
 👋 **Hi there**! I'm Vishnu Vardhan Reddy a passionate self-taught Full Stack Web Developer and  Software Engineer from India. I turn dreams into code, focusing on elegant interfaces, thoughtful experiences, and impeccable code quality.
 
@@ -15,7 +15,7 @@
 <a href="https://www.leetcode.com/vishnu33" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="vishnu33" height="30" width="40" /></a>
 </p>
 
-**Email**:medamvishnu@27gmail.com
+
 
 
 
