@@ -1,8 +1,8 @@
  💫 About me:
  
-👋 Hi there! I'm Vishnu Vardhan Reddy a passionate self-taught Full Stack Web Developer and Freelance Software Engineer from India. I turn dreams into code, focusing on elegant interfaces, thoughtful experiences, and impeccable code quality.
+👋 **Hi there**! I'm Vishnu Vardhan Reddy a passionate self-taught Full Stack Web Developer and  Software Engineer from India. I turn dreams into code, focusing on elegant interfaces, thoughtful experiences, and impeccable code quality.
 
-🚀 What I Do: By day, I craft software solutions; by night, I dive into the world of open source as an enthusiast and maintainer. I believe in the magic of collaboration and knowledge sharing.
+🚀 **What I Do**: By day, I craft software solutions; by night, I dive into the world of open source as an enthusiast and maintainer. I believe in the magic of collaboration and knowledge sharing.
 
 💼 **Open for Freelance Work**: If you need help with a project, I'm open to freelance opportunities. Let’s turn your ideas into reality! Feel free to reach out via email: [medamvishnu27@gmail.com].
 
