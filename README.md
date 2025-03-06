@@ -1,4 +1,4 @@
- 💫 **About me**:
+ 💫 **About me**:    
  
 👋 **Hi there**! I'm Vishnu Vardhan Reddy a passionate self-taught Full Stack Web Developer and  Software Engineer from India. I turn dreams into code, focusing on elegant interfaces, thoughtful experiences, and impeccable code quality.
 
